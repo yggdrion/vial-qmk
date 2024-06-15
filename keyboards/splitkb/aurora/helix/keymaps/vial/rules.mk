@@ -1,5 +1,9 @@
 VIA_ENABLE = yes
 VIAL_ENABLE = yes
 VIALRGB_ENABLE = yes
-
 ENCODER_MAP_ENABLE = yes
+
+CONVERT_TO=liatris
+
+QMK_SETTINGS = yes
+LTO_ENABLE = yes
